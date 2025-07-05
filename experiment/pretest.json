@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+  {
+      "question": "E½ represents which of the following parameter?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Residual current",
+        "b": "Half-wave potential",
+        "c": "Average diffusion current",
+        "d": "Sum of the diffusion residual current"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Residual current is the small current present even in absence of electroactive species. It is not E½.",
+        "b": "Correct. Half-wave potential (E½) is the potential at which half of the limiting current is reached in polarography.",
+        "c": "Average diffusion current refers to mean value of diffusion current, not a potential.",
+        "d": "Sum of the diffusion and residual currents doesn't define E½."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Choose the organic functional groups that are reducible at DME.",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Nitrate",
+        "b": "All the above",
+        "c": "Alkene",
+        "d": "Nitrite"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Nitrate is reducible at dropping mercury electrode (DME) under suitable conditions.",
+        "b": "Correct. Nitrate, nitrite, and some alkenes can be reduced at DME.",
+        "c": "Some alkenes can undergo electrochemical reduction at DME.",
+        "d": "Nitrite is reducible and often studied using polarography."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
