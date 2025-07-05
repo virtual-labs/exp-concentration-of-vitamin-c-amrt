@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+     {
+      "question": "Polarography is mostly related to:",
+      "answers": {
+        "a": "Differential Pulse Voltammetry",
+        "b": "Cyclic Voltammetry",
+        "c": "Normal Pulse Voltammetry",
+        "d": "Linear-sweep voltammeter"
+      },
+      "explanations": {
+        "a": "Differential pulse voltammetry is a modern, more sensitive technique but not the basis of classical polarography.",
+        "b": "Cyclic voltammetry is a different voltammetric method, not typically used in classical polarography.",
+        "c": "Correct. Normal Pulse Voltammetry is a time-dependent current measurement method closely linked to polarography.",
+        "d": "Linear-sweep is also a voltammetric method but less commonly used in classical polarography."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following can be determined best using Polarographic techniques?",
+      "answers": {
+        "a": "All the above",
+        "b": "Hormones",
+        "c": "Terpenoid",
+        "d": "Ascorbic acid"
+      },
+      "explanations": {
+        "a": "Correct. All these compounds can undergo redox reactions measurable by polarographic methods.",
+        "b": "Hormones like steroids can be analyzed polarographically if electroactive.",
+        "c": "Terpenoids with conjugated systems may be polarographically active.",
+        "d": "Ascorbic acid (Vitamin C) is a classic compound determined using polarography."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is/are capable of reducing at DME?",
+      "answers": {
+        "a": "Sulfhydryls",
+        "b": "Aryl methane",
+        "c": "Disulfides",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Sulfhydryl (-SH) compounds can be reduced at DME.",
+        "b": "Aryl methane is typically not electroactive under standard polarographic conditions.",
+        "c": "Correct. Disulfides (–S–S–) are reducible at DME.",
+        "d": "This is incorrect, as some listed compounds are reducible."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
