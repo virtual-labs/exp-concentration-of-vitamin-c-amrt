@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+  {
+      "question": "E½ represents which of the following parameter?",
+      "answers": {
+        "a": "Residual current",
+        "b": "Half-wave potential",
+        "c": "Average diffusion current",
+        "d": "Sum of the diffusion residual current"
+      },
+      "explanations": {
+        "a": "Residual current is the small current present even in absence of electroactive species. It is not E½.",
+        "b": "Correct. Half-wave potential (E½) is the potential at which half of the limiting current is reached in polarography.",
+        "c": "Average diffusion current refers to mean value of diffusion current, not a potential.",
+        "d": "Sum of the diffusion and residual currents doesn't define E½."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Choose the organic functional groups that are reducible at DME.",
+      "answers": {
+        "a": "Nitrate",
+        "b": "All the above",
+        "c": "Alkene",
+        "d": "Nitrite"
+      },
+      "explanations": {
+        "a": "Nitrate is reducible at dropping mercury electrode (DME) under suitable conditions.",
+        "b": "Correct. Nitrate, nitrite, and some alkenes can be reduced at DME.",
+        "c": "Some alkenes can undergo electrochemical reduction at DME.",
+        "d": "Nitrite is reducible and often studied using polarography."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Polarography is mostly related to:",
+      "answers": {
+        "a": "Differential Pulse Voltammetry",
+        "b": "Cyclic Voltammetry",
+        "c": "Normal Pulse Voltammetry",
+        "d": "Linear-sweep voltammeter"
+      },
+      "explanations": {
+        "a": "Differential pulse voltammetry is a modern, more sensitive technique but not the basis of classical polarography.",
+        "b": "Cyclic voltammetry is a different voltammetric method, not typically used in classical polarography.",
+        "c": "Correct. Normal Pulse Voltammetry is a time-dependent current measurement method closely linked to polarography.",
+        "d": "Linear-sweep is also a voltammetric method but less commonly used in classical polarography."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following can be determined best using Polarographic techniques?",
+      "answers": {
+        "a": "All the above",
+        "b": "Hormones",
+        "c": "Terpenoid",
+        "d": "Ascorbic acid"
+      },
+      "explanations": {
+        "a": "Correct. All these compounds can undergo redox reactions measurable by polarographic methods.",
+        "b": "Hormones like steroids can be analyzed polarographically if electroactive.",
+        "c": "Terpenoids with conjugated systems may be polarographically active.",
+        "d": "Ascorbic acid (Vitamin C) is a classic compound determined using polarography."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is/are capable of reducing at DME?",
+      "answers": {
+        "a": "Sulfhydryls",
+        "b": "Aryl methane",
+        "c": "Disulfides",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Correct. Sulfhydryl (-SH) compounds can be reduced at DME.",
+        "b": "Aryl methane is typically not electroactive under standard polarographic conditions.",
+        "c": "Correct. Disulfides (–S–S–) are reducible at DME.",
+        "d": "This is incorrect, as some listed compounds are reducible."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
